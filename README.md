@@ -1,4 +1,14 @@
 ## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é Lua 
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+luanalinsm@gmail.com
+@illuami
+![image](https://github.com/illuami/illuami/assets/170737411/b1bb1ae6-abee-4290-8e6e-a0807468cae0)
 
 <!--
 **illuami/illuami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
